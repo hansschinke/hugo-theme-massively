@@ -1,5 +1,5 @@
 +++
-title = 'Primis eget imperdiet lorem'
+title = 'kein Latein'
 slug = 'post1'
 image = 'images/pic03.jpg'
 description = 'Example of post with missing date property'
