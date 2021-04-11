@@ -1,4 +1,4 @@
-name = "Massively"
+name = "Massively Fotogilde"
 license = "Creative Commons"
 licenselink = "https://github.com/curttimson/hugo-theme-massively/blob/master/LICENSE"
 description = "An elegant open-source and mobile-first theme"
@@ -10,6 +10,8 @@ min_version = "0.54.0"
 [author]
     name = "Curtis Timson"
     homepage = "https://curtistimson.co.uk/"
+    [ sowieso]
+    "Textprobe"
 
 # If porting an existing theme
 [original]
